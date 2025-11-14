@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/HW2.dir/link.d CMakeFiles/HW2.dir/mainp2.cpp.o -o HW2
